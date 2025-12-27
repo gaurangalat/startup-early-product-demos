@@ -3,6 +3,8 @@ A public collection of early product demos from successful startups. Created to 
 Want to contribute? DM me on Twitter @gaurangalat or create a Pull request. 
 
 
+---
+
 [Doordash at YC Demo Day 2013](https://youtu.be/YNAOXokK--o)
 
 [Notion Demo 2013](https://www.youtube.com/watch?v=IVl6tUSHcmI)
